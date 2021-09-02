@@ -17,8 +17,6 @@ const data = [
     id: "a3fb8218-400a-491b-a81f-6410659d41bb",
     type: "Feature",
     properties: {
-      fieldId: "a3fb8218-400a-491b-a81f-6410659d41bb",
-      farmId: "7201304e-33cf-4617-86bd-0f09c1b86607",
       name: "prague",
       rawProperties: "{}",
       area: 9,
@@ -50,8 +48,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000085","Nummer":9,"Name":"Gremelsberger Wiese","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":1.2342,"LFlaeche":1.2342}',
       name: "Gremelsberger Wiese",
-      fieldId: "6dee93e1-b46b-44d0-86e1-ae05f84f4c79",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 3,
       country: "USA",
       countryName: "United States of America",
@@ -93,8 +89,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000084","Nummer":8,"Name":"Männer - Wiesacker","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":1.3075,"LFlaeche":1.3075}',
       name: "Männer - Wiesacker",
-      fieldId: "333d7572-a56d-4ce6-b161-1615e5b2bbff",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 3,
       country: "USA",
       countryName: "United States of America",
@@ -136,8 +130,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000083","Nummer":7,"Name":"Männer - Holzacker","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":3.7296,"LFlaeche":3.7296}',
       name: "Männer - Holzacker",
-      fieldId: "d4852454-b7ad-43c0-9620-4d2462ee9fd8",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 9,
       country: "USA",
       countryName: "United States of America",
@@ -170,8 +162,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000078","Nummer":4,"Name":"Kramer Acker","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":0.9476,"LFlaeche":0.9476}',
       name: "Kramer Acker",
-      fieldId: "4b9a42d0-a401-4aef-be98-4a3927e907d8",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 2,
       country: "USA",
       countryName: "United States of America",
@@ -222,8 +212,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6424000001","Nummer":6,"Name":"Volksdorf-unten","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":3.5838,"LFlaeche":3.5838}',
       name: "Volksdorf-unten",
-      fieldId: "353af9da-650f-4dc3-aef3-1133ba951b62",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 9,
       country: "USA",
       countryName: "United States of America",
@@ -272,8 +260,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000081","Nummer":3,"Name":"Hausacker","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":4.2222,"LFlaeche":4.2222}',
       name: "Hausacker",
-      fieldId: "1cf34d36-8d8e-4af5-a21d-638ba6d2ff93",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 10,
       country: "USA",
       countryName: "United States of America",
@@ -327,8 +313,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000080","Nummer":2,"Name":"Rattenbach Acker","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":17.6753,"LFlaeche":17.6753}',
       name: "Rattenbach Acker",
-      fieldId: "590ddaf7-8c27-4dd9-8d93-fd635b0e00b3",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 44,
       country: "USA",
       countryName: "United States of America",
@@ -386,8 +370,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000324","Nummer":26,"Name":"Schildhammer","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":1.7283,"LFlaeche":1.7283}',
       name: "Schildhammer",
-      fieldId: "7d151920-cb36-4a65-a78a-4d5b4fbd8baa",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 4,
       country: "USA",
       countryName: "United States of America",
@@ -439,8 +421,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000551","Nummer":25,"Name":"Kirchengrund","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":1.2299,"LFlaeche":1.2299}',
       name: "Kirchengrund",
-      fieldId: "acc4fda4-2eb8-45b8-92d4-9feddc6d83be",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 3,
       country: "USA",
       countryName: "United States of America",
@@ -469,8 +449,6 @@ const data = [
     id: "cff6115e-0697-46a8-9f37-cccc76b0c6b5",
     type: "Feature",
     properties: {
-      fieldId: "cff6115e-0697-46a8-9f37-cccc76b0c6b5",
-      farmId: "7201304e-33cf-4617-86bd-0f09c1b86607",
       name: "delhi10",
       rawProperties: "{}",
       area: 34.46,
@@ -515,8 +493,6 @@ const data = [
       rawProperties:
         '{"FID":"DEBYLI6456000089","Nummer":18,"Name":"kiesgrubenacker","Jahr":2018,"Land":9,"Betrieb":276092771410030,"Flaeche":5.5589,"LFlaeche":5.5589}',
       name: "kiesgrubenacker",
-      fieldId: "454f2a12-c986-4d12-bc03-58a68941f297",
-      farmId: "99a75ef7-55d6-4afd-ae31-147103ec9aa5",
       area: 14,
       country: "USA",
       countryName: "United States of America",
